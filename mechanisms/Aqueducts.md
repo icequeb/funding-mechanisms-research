@@ -26,3 +26,4 @@ An example of aqueduct implementation can be seen with Tally Ho, the first proto
 - Griff Green & Kevin Owocki: [Greenpill Episode on coordination mechanisms](https://greenpill.substack.com/p/65-coordination-mechanisms-with-griff)
 - Writing by @icequeb
 
+
